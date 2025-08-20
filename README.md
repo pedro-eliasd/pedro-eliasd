@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá meu nome é Pedro Elias Duarte, tenho 24 anos e sou de São Paulo.Resolvi entrar no mundo da programação a mais ou menos um ano e até agora tive uma experiencia incrivel aprendendo coisas que até então eu pensei que nunca ia chegar perto, recentemente conclui o bootcamp de javascript da Generation Brasil e estou em busca da minha primeira oportunidade como desenvolvedor Fullstack!.
+Olá meu nome é Pedro Elias Duarte, tenho 24 anos e sou de São Paulo. Resolvi entrar no mundo da programação a mais ou menos um ano e até agora tive uma experiencia incrivel aprendendo coisas que até então eu pensei que nunca ia chegar perto, recentemente conclui o bootcamp de javascript da Generation Brasil e estou em busca da minha primeira oportunidade como desenvolvedor Fullstack!.
 
 <p align="left">
     <a href="https://github.com/pedro-eliasd?tab=repositories&sort=stargazers">
